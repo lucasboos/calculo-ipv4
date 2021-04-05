@@ -17,5 +17,6 @@
   <img src="src/img1.png">
 <figcaption>Representação com IP + Prefixo</figcaption>
   <img src="src/img2.png">
+<span><small><i>Valores utilizados meramente ilustrativos</i></small></span>
 </figure>
 
