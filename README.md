@@ -1,4 +1,10 @@
 <h1>Cálculo de rede IPV4</h1>
+
+<p>
+    Exercício feito no Curso de Python para exercitar o uso dos métodos de classe.<br>
+    Foi utilizado: Property, setter, staticmethod e funções tradicionais.
+</p>
+
 <p>
     Enviando o IP juntamente com o CIDR ou a máscara, retorna os seguintes valores:<br>
     • Endereço de IP<br>• IP da rede<br>• Endereço de Broadcast<br>• Número total de hosts<br>• Máscara<br>• CIDR
