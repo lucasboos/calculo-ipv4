@@ -4,6 +4,7 @@
     • Endereço de IP<br>• IP da rede<br>• Endereço de Broadcast<br>• Número total de hosts<br>• Máscara<br>• CIDR
 </p>
 
+<hr>
 
 <figure>
 <figcaption>Representação com IP + Máscara</figcaption>
