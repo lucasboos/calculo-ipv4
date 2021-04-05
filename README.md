@@ -6,7 +6,7 @@
 
 
 <figure>
-  <img src="src/img1.jpg">
-  <img src="src/img2.jpg">
+  <img src="src/img1.png">
+  <img src="src/img2.png">
 </figure>
 
