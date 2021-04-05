@@ -6,7 +6,9 @@
 
 
 <figure>
+<figcaption>Representação com IP + Máscara</figcaption>
   <img src="src/img1.png">
+<figcaption>Representação com IP + Prefixo</figcaption>
   <img src="src/img2.png">
 </figure>
 
